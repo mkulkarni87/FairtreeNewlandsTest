@@ -1,2 +1,4 @@
 Hello world!
-Let me spell somethgni incorrectly and add a few blank lines
+Let me spell something incorrectly and add a few blank lines
+
+I corrected something
