@@ -1,0 +1,15 @@
+What did I try?
+
+mkulkarni87 starts a GitHub repo(sitory). GitHub syncs with GitHub desktop app.
+
+Desktop app lets you create new files play around with them etc. Then you 'commit' changes.
+
+Then I wanted to try something out, so you start a 'branch' because you don't want to change the 'master'.
+
+I made minor changes and then did a 'pull request'. 'branch' merges with 'master', various options.
+
+Adding a collaborator (email is sent to them to accept), organization view with GitHub Enterprise
+
+Collaborator makes changes to existing files, adds files. 'Pull request' to add changes. User permissions.
+
+Desktop app features
