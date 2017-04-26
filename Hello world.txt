@@ -1,3 +1,10 @@
+!git status
+!git rm MacaroniInternet.m
+!git commit -m "remove MacaroniInternet.m"
+!git push
+!git status
+
+
 <<<<<<< HEAD
 Hello world!
 Let me spell something incorrectly and add a few blank lines
