@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello world!
 Let me spell something incorrectly and add a few blank lines
 
@@ -7,3 +8,20 @@ I corrected something
 Keith writing over here?!?.
 
 Cyclops just says hi! Changing an existing file from a different account and computer
+=======
+Hello world!
+Let me spell something incorrectly and add a few blank lines
+
+I corrected something
+
+
+Keith writing here.
+
+Cyclops just says hi! Changing an existing file from a different account and computer
+
+
+
+
+
+Juggernaut is syncing about making a change
+>>>>>>> origin/master
