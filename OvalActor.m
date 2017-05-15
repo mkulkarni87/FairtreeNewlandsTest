@@ -1,20 +1,13 @@
-sprintf('OvalActor')
-
-sprintf('Wednesday asdlkgjalrghjadfmorning edit...')
-
-sprintf('conflict clash')
-laslghalkfghalkgadlfgjkalgjadlgjka
-
-Another commit for stash check
-
-CHANGE MADE ON WEBSITE
-
-
-
-
-%The rain in Spain...
-%one two three
-%kf  change to seventeen
-
-%Keith was here AND My name is Mayuresh
-
+<!-- Author: Alexander Shvets (alex@githowto.com) -->
+<html>
+  <head>
+<<<<<<< HEAD
+    <link type="text/css" rel="stylesheet" media="all" href="style.css" />
+=======
+    <!-- no style -->
+>>>>>>> master
+  </head>
+  <body>
+    <h1>Hello,World! Life is great!</h1>
+  </body>
+</html>
