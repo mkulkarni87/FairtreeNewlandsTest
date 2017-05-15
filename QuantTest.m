@@ -1,4 +1,4 @@
-Deleting contents of file to test fetch >> merge
+Deleting contents of file to test fetch
 
 
 
@@ -6,6 +6,4 @@ Deleting contents of file to test fetch >> merge
 
 
 
-
-
-Creating commits and will test stash command
+Commit random
